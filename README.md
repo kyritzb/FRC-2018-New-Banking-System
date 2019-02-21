@@ -1,6 +1,6 @@
 # FRC-2018-New-Banking-System
 
-New banking system using google sheets and google forms to organize, calculate, and log team expenses. 
+New banking system using google sheets and google forms to organize, calculate, and log team expenses.
 Users can use google form on their phones to input the information
 Aids in the creation of the cost sheet as well as the budget and reimbursements
 
